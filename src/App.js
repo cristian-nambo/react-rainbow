@@ -1,3 +1,4 @@
+// import logo from './logo.svg'
 import React, { useState } from 'react'
 import ColorBlock from './ColorBlock'
 import ColorForm from './ColorForm'
